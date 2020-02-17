@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.ko /home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.o /home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.mod.o ;  true

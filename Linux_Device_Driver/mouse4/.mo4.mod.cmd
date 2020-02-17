@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/mouse4/mo4.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/mouse4/mo4.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/mouse4/mo4.mod

@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/keyboard/k0.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/keyboard/k0.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/keyboard/k0.mod

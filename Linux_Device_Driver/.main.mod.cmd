@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/main.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/main.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/main.mod

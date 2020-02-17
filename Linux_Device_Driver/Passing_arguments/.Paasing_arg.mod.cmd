@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/Passing_arguments/Paasing_arg.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/Passing_arguments/Paasing_arg.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/Passing_arguments/Paasing_arg.mod

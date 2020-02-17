@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/Hello_macros/hello_macros.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/Hello_macros/hello_macros.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/Hello_macros/hello_macros.mod

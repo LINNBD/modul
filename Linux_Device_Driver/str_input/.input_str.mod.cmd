@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/str_input/input_str.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/str_input/input_str.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/str_input/input_str.mod

@@ -1,0 +1,14 @@
+#include <linux/module.h>
+#include <linux/init.h>
+#include <linux/input.h>
+#include <linux/delay.h>
+#include <linux/interrupt.h>
+
+#include <asm/atariints.h>
+#include <asm/atarihw.h>
+#include <asm/atarikb.h>
+#include <asm/irq.h>
+
+MODULE_AUTHOR("Michael Schmitz <schmitz@biophys.uni-duesseldorf.de>");
+MODULE_DESCRIPTION("Atari keyboard driver");
+MODULE_LICENSE("GPL");

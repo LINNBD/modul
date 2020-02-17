@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/main.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/saiful/Documents/Programming/Linux_Device_Driver/main.ko /home/saiful/Documents/Programming/Linux_Device_Driver/main.o /home/saiful/Documents/Programming/Linux_Device_Driver/main.mod.o ;  true

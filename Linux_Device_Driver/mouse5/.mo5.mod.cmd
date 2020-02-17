@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/mouse5/mo5.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/mouse5/mo5.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/mouse5/mo5.mod

@@ -1,0 +1,2 @@
+0x00000000	matrix_keypad_parse_properties	/home/saiful/Documents/Programming/Linux_Device_Driver/ke4/ke4	EXPORT_SYMBOL_GPL
+0x00000000	matrix_keypad_build_keymap	/home/saiful/Documents/Programming/Linux_Device_Driver/ke4/ke4	EXPORT_SYMBOL

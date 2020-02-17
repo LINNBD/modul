@@ -1,0 +1,1 @@
+cmd_/home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.mod := { echo  /home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.o; echo; } > /home/saiful/Documents/Programming/Linux_Device_Driver/ke5/ke5.mod
